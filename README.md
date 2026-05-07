@@ -2,7 +2,10 @@
 
 > **L2 training workbench — base-model agnostic; code release pending §11 gates of the companion paper.**
 
-[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20053545.svg)](https://doi.org/10.5281/zenodo.20053545)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281%2Fzenodo.20053545-1682d4)](https://doi.org/10.5281/zenodo.20053545)
+[![Status](https://img.shields.io/badge/status-pending%20%C2%A711%20gates-orange)](https://github.com/doorm-ai/WorldModel-OS-governance#three-release-gates-per-11-of-the-paper)
+[![Last Commit](https://img.shields.io/github/last-commit/doorm-ai/Finetune-Workbench)](https://github.com/doorm-ai/Finetune-Workbench/commits/main)
+[![Stars](https://img.shields.io/github/stars/doorm-ai/Finetune-Workbench?style=social)](https://github.com/doorm-ai/Finetune-Workbench/stargazers)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0--or--later-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 This repository is reserved for **Finetune Workbench**, the **L2 training workbench** in the DOORM WorldModel-OS architecture — a model-agnostic LoRA fine-tuning pipeline with three hard quality gates.
