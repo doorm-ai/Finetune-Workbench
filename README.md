@@ -81,7 +81,7 @@ L2 produces adapters. L1 consumes them. They communicate via a stable `adapter_v
 ## 📚 Companion artifacts
 
 - 📄 **[Paper + governance docs](https://github.com/doorm-ai/Genmount-WorldModel-OS-Governance)** — DOI [10.5281/zenodo.20053545](https://doi.org/10.5281/zenodo.20053545)
-- 🛠 **[WorldModel-OS](https://github.com/doorm-ai/Genmount-WorldModel-OS)** — L1 platform skeleton (sibling repo)
+- 🛠 **[Genmount WorldModel-OS](https://github.com/doorm-ai/Genmount-WorldModel-OS)** — L1 platform skeleton (sibling repo)
 
 ---
 
